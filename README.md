@@ -8,21 +8,21 @@ Roadmap to becoming a Senior Full Stack Developer
  - [x] Express
  - [X] Mongodb
  - [X] Testing strategies and tooling
- - [ ] Nodejs Advance
- - [ ] Graphql
+ - [x] Nodejs Advance
+ - [x] Graphql
  
 ### Frontend
  - [x] Reactjs
  - [x] Redux
- - [ ] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
- - [ ] Saas - read Better CSS with Sass by Cole Henley
- - [ ] Mastering react router
+ - [x] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
+ - [x] Saas - read Better CSS with Sass by Cole Henley
+ - [x] Mastering react router
  
 ### Mobile
  - [ ] React Native
 
 ### Desktop
- - [ ] Electronjs
+ - [x] Electronjs
 
 ### Design Patterns
  - [ ] Functional Programming
