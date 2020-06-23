@@ -19,7 +19,7 @@ Roadmap to becoming a Senior Full Stack Developer
  - [x] Mastering react router
  
 ### Mobile
- - [ ] React Native
+ - [x] React Native
 
 ### Desktop
  - [x] Electronjs
@@ -35,7 +35,7 @@ Roadmap to becoming a Senior Full Stack Developer
 
 ### MISC
 - [ ] System Design
-- [ ] Data structures and Algorithms
+- [x] Data structures and Algorithms
 - [ ] Data science with Javascript & Tensorflow
 
 ### Certification
